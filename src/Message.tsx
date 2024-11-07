@@ -1,4 +1,5 @@
-function Message(){
+function Message()
+{
     const name = 'nathan'
 
     if (name)
