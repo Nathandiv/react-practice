@@ -1,3 +1,6 @@
+import Message from "./Message"
 function App(){
-  return <div></div>
+  return <div><Message /></div>
 }
+
+export default App
